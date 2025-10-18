@@ -8,6 +8,8 @@ This requires .Net 8+ on a Linux, Windows or macOS system to build.
 
 ## Getting Started
 
+You can find a PDF with more detailed instructions on the ASCOM Website: https://download.ascom-standards.org/docs/CSharpAlpacaTemplate.pdf.
+
 Fill out the constants in program.cs with your details and default ports.
 
 Add driver code to the Drivers folder.
